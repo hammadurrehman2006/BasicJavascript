@@ -1,0 +1,38 @@
+* {
+    background-color: hsl(30, 25%, 91%);
+}
+h1{
+    margin-left: 30vh;
+    margin-right: 30vh;
+    background-color: #EDF1FC;
+}
+.box {
+    height: 60vh;
+    width: 50vw;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background-color: #75A1F0;
+    border-radius: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#bttn {
+    width: 100px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: #6320EE;
+    color: blanchedalmond;
+    border-bottom: white;
+}
+
+#myInput {
+    width: 200px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: aquamarine;
+    margin-top: 100px;
+    margin-left: 25vh;
+    border-color: 0%;
+}
